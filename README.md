@@ -11,6 +11,7 @@
 4. [ROI](https://github.com/nachoad/cost-effective-cognitive-city#roi)
 5. [Enlaces](https://github.com/nachoad/cost-effective-cognitive-city#enlaces)
 6. [Capturas](https://github.com/nachoad/cost-effective-cognitive-city#capturas)
+7. [Node-red flows](https://github.com/nachoad/cost-effective-cognitive-city/tree/master/node-red-flows)
 
 
 ## Descripción
