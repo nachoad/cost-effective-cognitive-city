@@ -1,5 +1,13 @@
 # Cost-effective Cognitive City (CeCC)
 
+1. Descripción
+2. Caso de negocio
+3. Prototipo
+4. ROI
+5. Enlaces
+6. Capturas
+
+
 ## Descripción
 
 *Proyecto con el que participo en el Hackaton interno de IBM.* 
@@ -58,6 +66,10 @@ La siguiente captura de pantalla muestra el flujo de NodeRed implementado para h
 La siguiente captura de pantalla muestra el flujo de NodeRed implementado para hacer el prototipo del conversation que recoge el #hashtag de Twitter y contesta a la persona si está activado el protocolo:
 
 ![Flujo NodeRed](img/flujo-conversation.png)
+
+En la siguiente captura se muestran las entidades con las que se ha entrenado al **Watson Conversation**:
+
+![Flujo NodeRed](img/watson-conversation.png)
 
 ## Futuras extensiones
 
