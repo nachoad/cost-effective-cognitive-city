@@ -1,5 +1,8 @@
 # Cost-effective Cognitive City (CeCC)
 
+
+![Alumbrado](img/alumbrado.gif)
+
 1. Descripción
 2. Caso de negocio
 3. Prototipo
