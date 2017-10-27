@@ -25,7 +25,7 @@ Sin embargo con este proyecto nos basamos en los millones de sonsores que ya ten
 
 El prototipo se ha probado con una Raspberry PI 3 y unos LEDs para poder hacer una simulación real delante de un cliente.
 
-Esta conexión ha sido muy fácil gracias a **IBM IoT**. Esta plataforma nos ha permitido conectar la Raspberry a NodeRed.
+Esta conexión ha sido muy fácil gracias a **Watson IoT platform**. Esta plataforma nos ha permitido conectar la Raspberry a NodeRed.
 
 
 ## ROI
