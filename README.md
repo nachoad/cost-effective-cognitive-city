@@ -18,7 +18,7 @@
 
 *Proyecto con el que participo en el Hackaton interno de IBM.* 
 
-El objetivo fundamental es desarrollar una aplicación de forma rápida y sencilla con los servicios de [Bluemix](https://bluemix.net) y [NodeRed](https://nodered.org/).
+El objetivo fundamental es desarrollar una aplicación de forma rápida y sencilla con los servicios de [IBM Cloud (Bluemix)](https://bluemix.net) y [NodeRed](https://nodered.org/).
 
 A la hora de realizar este proyecto, se ha pensado en ciudades, pero podríamos pensar también en parques empresariales, empresas con recintos de varios edificios, etc.
 
