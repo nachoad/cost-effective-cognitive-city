@@ -36,13 +36,14 @@ Por una parte encontraremos el ahorro de no alumbrar las calles de las ciudades 
 
 Igualmente tendremos un claro ahorro con el riego de los parques, siempre que las condiciones climáticas sean las adecuadas para ello.
 
-Además ganamos en seguridad ciudadana (encendiendo farolas en zonas donde hay mucha niebla).
+Además ganamos en seguridad ciudadana (encendiendo farolas en zonas donde hay mucha niebla, o se hace de noche pronto).
  
 
 ## Enlaces
 
 #### Consola de NodeRed
 El flujo de NodeRed está desplegado en: [hackarriquitaun.mybluemix.net](https://hackarriquitaun.mybluemix.net/)
+(si quieres saber la contraseña, envíame un mail. No obstante, más abajo tienes capturas de los flujos)
 
 #### Servicio de The Weather Channel
 The Weather Channel: [https://console.bluemix.net/docs/services/Weather/index.html?pos=2](https://console.bluemix.net/docs/services/Weather/index.html?pos=2)
@@ -54,7 +55,7 @@ La siguiente captura de pantalla muestra el flujo de NodeRed implementado para h
 
 ![Flujo NodeRed](img/flujo-node-red.png)
 
-La siguiente captura de pantalla muestra el flujo de NodeRed implementado para hacer el prototipo del conversation
+La siguiente captura de pantalla muestra el flujo de NodeRed implementado para hacer el prototipo del conversation que recoge el #hashtag de Twitter y contesta a la persona si está activado el protocolo:
 
 ![Flujo NodeRed](img/flujo-conversation.png)
 
