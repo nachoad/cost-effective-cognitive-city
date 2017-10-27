@@ -3,6 +3,8 @@
 
 ![Alumbrado](img/alumbrado.gif)
 
+## Índice
+
 1. [Descripción](https://github.com/nachoad/cost-effective-cognitive-city#descripción)
 2. [Caso de negocio](https://github.com/nachoad/cost-effective-cognitive-city#caso-de-negocio)
 3. [Prototipo](https://github.com/nachoad/cost-effective-cognitive-city#prototipo)
@@ -70,9 +72,13 @@ La siguiente captura de pantalla muestra el flujo de NodeRed implementado para h
 
 ![Flujo NodeRed](img/flujo-conversation.png)
 
-En la siguiente captura se muestran las entidades con las que se ha entrenado al **Watson Conversation**:
+En la siguiente captura se muestran *Las Entidades* con las que se ha entrenado al **Watson Conversation**:
 
-![Flujo NodeRed](img/watson-conversation.png)
+![Flujo NodeRed](img/conversation-entities.png)
 
-## Futuras extensiones
+En la siguiente captura se muestran *Las Intenciones* con las que se ha entrenado al **Watson Conversation**:
+
+![Flujo NodeRed](img/conversation-intents.png)
+
+
 
