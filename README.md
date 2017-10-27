@@ -15,9 +15,9 @@ Sin embargo con este proyecto nos aprovechamos de los millones de sensores que y
 
 ### Funcionalidades
 
-- **Agente Virtual para aviso de contaminación**: gracias al servicio de Watson Conversation, saber si está activado el [Protocolo de contaminación de Madrid](http://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Preguntas-frecuentes-generales-sobre-el-protocolo-para-episodios-de-alta-contaminacion?vgnextfmt=default&vgnextoid=6ac1c93b6ca18510VgnVCM2000001f4a900aRCRD&vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD) (por ejemplo) es muy sencillo. Un agente virtual nos contesta a preguntas sobre el estado. Este agente virtual integra el servicio de The Weather Channel para conocer las condiciones de NO2 y poder hacer predicciones sobre la activación del protocolo. Además gracias a NodeRed, podemos verificar [el estado](http://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Hoy-27-de-octubre-activado-escenario-2-del-Protocolo-de-contaminacion-manana-28-de-octubre-de-2017-escenario-1?vgnextfmt=default&vgnextoid=c109671f30d5f510VgnVCM1000001d4a900aRCRD&vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD) actual desde la web de La Comunidad de Madrid.
+- **Agente Virtual para aviso de contaminación**: gracias al servicio de **Watson Conversation**, saber si está activado el [Protocolo de contaminación de Madrid](http://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Preguntas-frecuentes-generales-sobre-el-protocolo-para-episodios-de-alta-contaminacion?vgnextfmt=default&vgnextoid=6ac1c93b6ca18510VgnVCM2000001f4a900aRCRD&vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD) (por ejemplo) es muy sencillo. Un agente virtual nos contesta a preguntas sobre el estado. Este agente virtual integra el servicio de The Weather Channel para conocer las condiciones de NO2 y poder hacer predicciones sobre la activación del protocolo. Además gracias a NodeRed, podemos verificar [el estado](http://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Hoy-27-de-octubre-activado-escenario-2-del-Protocolo-de-contaminacion-manana-28-de-octubre-de-2017-escenario-1?vgnextfmt=default&vgnextoid=c109671f30d5f510VgnVCM1000001d4a900aRCRD&vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD) actual desde la web de La Comunidad de Madrid. Para preguntar al servicio sólo tienes que escribir un tweet con el hashtag **#pollutionmadrid**.
 - **Detección de día/noche**: utilizando el servicio de The Weather Channel, el sistema obtiene la hora exacta de amanecer, atardecer y anochecer en la localización exacta. Esto permite saber cuando encender/apagar el alumbrado.
-- **Detección de climatología**: utilizando el servicio de The Weather Channel, el sistema obtiene la temperatura y el clima exácto de la zona. Esto permite la activación de los sistemas de riego de los parques en los momentos más adecuados. Igualmente este dato también se utiliza.
+- **Detección de climatología**: utilizando el servicio de **The Weather Channel**, el sistema obtiene la temperatura y el clima exácto de la zona. Esto permite la activación de los sistemas de riego de los parques en los momentos más adecuados. Igualmente este dato también se utiliza.
 
 
 
@@ -53,6 +53,10 @@ The Weather Channel: [https://console.bluemix.net/docs/services/Weather/index.ht
 La siguiente captura de pantalla muestra el flujo de NodeRed implementado para hacer el prototipo del proyecto:
 
 ![Flujo NodeRed](img/flujo-node-red.png)
+
+La siguiente captura de pantalla muestra el flujo de NodeRed implementado para hacer el prototipo del conversation
+
+![Flujo NodeRed](img/flujo-conversation.png)
 
 ## Futuras extensiones
 
